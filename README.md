@@ -4,5 +4,7 @@ SCRUM MASTER - Total, Jahreb A.
 
 DEV- Caballero,Dan Westlet B.
 
-DB ADMIN - Pineda, Sedric A. 
+DB ADMIN - Pineda, Sedric A.
+
+TESTER - Makiramdam, Kent Genesis A.
 
