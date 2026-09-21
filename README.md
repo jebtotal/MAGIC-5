@@ -3,3 +3,4 @@
 scrum master- Total, Jahreb A.
 dev- Caballero,Dan Westlet B.
 DB ADMIN - Pineda, Sedric A. 
+tester - Makiramdam, Kent Genesis A.
