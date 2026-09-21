@@ -1,7 +1,9 @@
 # MAGIC-5
 
-scrum master- Total, Jahreb A.
+SCRUM MASTER - Total, Jahreb A.
 
-dev- Caballero,Dan Westlet B.
+DEV- Caballero,Dan Westlet B.
 
-ui designer- Bocobo, Cherub Bea A.
+DB ADMIN - Pineda, Sedric A.
+
+UI DESIGNER - Bocobo, Cherub Bea A.
