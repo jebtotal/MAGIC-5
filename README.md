@@ -6,5 +6,5 @@ DEV- Caballero,Dan Westlet B.
 
 DB ADMIN - Pineda, Sedric A.
 
-TESTER - Makiramdam, Kent Genesis A.
+TESTER - Makiramdam, Kent Genesis C.
 
